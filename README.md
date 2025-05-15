@@ -1,8 +1,8 @@
-#fb2png
+# fb2png
 
 linux(raspberry pi zero 2w 用)のフレームバッファをpng画像にして保存するサンプル
 
-#ビルド方法
+# ビルド方法
 
 ```bash
 mkdir build
