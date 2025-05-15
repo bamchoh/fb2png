@@ -7,7 +7,7 @@ linux(raspberry pi zero 2w 用)のフレームバッファをpng画像にして�
 ```bash
 mkdir build
 cd build
-cmake .. -DCMAKE_TOOLCHAIN_FILE=../toolchain.cmake -DCMAKE_SYSROOT=/home/bamchoh/rpi-sysroot
+cmake .. -DCMAKE_TOOLCHAIN_FILE=../toolchain.cmake
 cmake --build .
 ```
 
